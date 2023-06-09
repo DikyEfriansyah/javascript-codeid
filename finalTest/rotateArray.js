@@ -6,3 +6,5 @@ function rotateArray(arr, k){
     }
     return arr;
 }
+
+console.log(rotateArray(arr, 3))
